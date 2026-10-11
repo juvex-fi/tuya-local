@@ -6,6 +6,10 @@ products:
   - id: qhpaegcadawabwct
     manufacturer: Jocel
     model: JCT007452
+  - id: yxrqur8yszq7oaw1
+    manufacturer: ThermalPlus
+    model: Passthrough heater
+    model_id: 8884/PO8731
 entities:
   - entity: climate
     translation_only_key: heater
